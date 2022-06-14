@@ -18,5 +18,6 @@ public class TestGit {
         System.out.println("hot-fix branch");
         System.out.println("master first modify");
         System.out.println("hot-fix branch modify");
+        System.out.println("test push");
     }
 }
